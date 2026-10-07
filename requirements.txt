@@ -1,0 +1,4 @@
+obp==0.5.7
+matplotlib==3.8.4
+pyarrow==25.0.1
+ipykernel
